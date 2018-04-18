@@ -1,0 +1,53 @@
+header {
+    padding-top: 30px;
+    background-color: #ffffff;
+    display: inline;
+}
+
+#B {
+    position: absolute;
+    text-align: right;
+    top:10px;
+    right:300px;
+}
+
+#C {
+    position: absolute;
+    text-align: right;
+    top:10px;
+    right:220px;
+}
+
+#D {
+    position: absolute;
+    text-align: right;
+    top:10px;
+    right:150px;
+}
+
+body {
+    background-color: #cccccc;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
+#bio-image {
+    float: left;
+    margin-right: 25px;
+}
+
+.A {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+#Part1 {
+    Padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+
+#Part2 {
+
+}
